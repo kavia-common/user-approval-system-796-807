@@ -1,0 +1,4 @@
+{
+    "command": "python test_db.py",
+    "working_directory": "/tmp/kavia/workspace/code-generation/user-approval-system-796-807/social_media_db"
+}
